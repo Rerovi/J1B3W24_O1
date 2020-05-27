@@ -1,0 +1,40 @@
+html {
+    background-color: darkgray;
+}
+a {
+    display: inline-block;
+    text-decoration: none;
+    color: #FF6F61FF;
+    height: 58px;
+    border: 1px solid #C5299BFF;
+}
+li {
+    padding-left: 20px;
+    display: inline;
+    line-height: 60px;
+    font-size: 25px;
+}
+ul {
+    text-align: center;
+}
+li :hover {
+    background-color: #FF6F61FF;
+    color: white;
+    border: 1px solid white;
+
+}
+.navBar {
+    display: inline-block;
+    width: 96.8%;
+    list-style: none;
+    background-color: #C5299BFF;
+    height: 60px;
+}
+footer {
+    width: 100%;
+    background-color: #C5299BFF;
+    height: 100px;
+}
+.main {
+    background-color: #C5299BFF;
+}

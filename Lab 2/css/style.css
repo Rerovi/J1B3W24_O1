@@ -1,0 +1,64 @@
+body {
+    width: 1000px;
+    background-color: darkgray;
+}
+nav {
+    background-color: crimson;
+    width: 700px;
+    margin-left: 250px;
+    display: block;
+    border: 1px solid black;
+}
+footer {
+    margin-left: 250px;
+    text-align: center;
+    height: 40px;
+    width: 700px;
+    background-color: crimson;
+    border: 1px solid black;
+    position: sticky;
+}
+.footer {
+    margin-top: 7px;
+}
+ul {
+
+    margin-bottom: 20px;
+}
+li {
+    list-style: none;
+    display: inline-block;
+    width: 100px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+.container {
+    margin-left: 250px;
+    width: 700px;
+    position: relative;
+    background-color: gray;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.sqlImg {
+    border: 1px solid crimson;
+    margin-top: 160px;
+    margin-left: 450px;
+    width: 200px;
+    height: 100px;
+    text-align: left;
+    background-color: gray;
+    position: absolute;
+}
+.text {
+    padding-left: 50px;
+    width: 600px;
+    margin: 0;
+    padding-bottom: 20px;
+}
+h2 {
+    margin-top: 0;
+    padding-left: 50px;
+}
